@@ -5,3 +5,5 @@ Dit is de 2de commit in develop
 
 Dit is de eerste commit in feature-short
 Dit is de tweede commit in feature-short
+
+Dit si de release commit
